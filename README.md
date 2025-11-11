@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Prashant Mane</h1>
 
-<!--
-**prashantmane17/prashantmane17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-End Developer | ⚛️ React.js | 🧭 Next.js | 🎨 Tailwind CSS | 🛍️ Shopify Developer  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔹 Passionate Front-End Developer with **1.5+ year of experience**
+- 🌍 Focused on creating responsive, fast, and accessible web experiences  
+- ⚡ Skilled in **React.js, Next.js, Tailwind CSS, Shopify Liquid**
+- 🌱 Always eager to learn and build modern UI solutions  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+`React.js` · `Next.js` · `Tailwind CSS` · `SCSS` · `JavaScript (ES6+)`
+
+#### 🧩 CMS / Platforms
+`Shopify (Liquid)`
+
+#### ⚙️ Tools
+`VS Code` · `Git & GitHub` · `Figma` · `Postman`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantmane17&show_icons=true&theme=radical" alt="Prashant's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmane17&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:prashantmn47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=prashantmane17&color=blueviolet)
