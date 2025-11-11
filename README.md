@@ -1,9 +1,10 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#FF6B81;">Prashant Mane</span></h1>
+<!-- 🌌 HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFA9;">Prashant Mane</span></h1>
 <h3 align="center">💻 Front-End Developer | ⚛️ React.js | 🧭 Next.js | 🎨 Tailwind CSS | 🛍️ Shopify Developer</h3>
 
+<!-- 🌀 Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer+👨‍💻;React+%2B+Next.js+Specialist⚛️;Passionate+about+Modern+Web+Designs+🎨;Shopify+Liquid+Developer+🛍️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FFA9&center=true&vCenter=true&width=600&lines=Front-End+Developer+👨‍💻;React+and+Next.js+Specialist+⚛️;Building+Modern+UI+Experiences+🎨;Shopify+Liquid+Developer+🛍️" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,31 +22,32 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,scss,js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,scss,js,ts&theme=dark" />
 </p>
 
 #### 🧩 CMS / Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=shopify,wordpress" />
+<p align="center">
+  <!-- Shopify icon (custom fix, skillicons doesn’t include it natively) -->
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" />
 </p>
 
 #### ⚙️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantmane17&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmane17&layout=compact&theme=radical&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantmane17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmane17&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane17&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashantmane17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,22 +56,27 @@
 
 <p align="center">
   <a href="mailto:prashantmn47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/prashantmane17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.evoxcel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <!-- <a href="https://www.evoxcel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2300FFA9.svg?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a> -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantmane17&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=prashantmane17&color=00FFA9&style=for-the-badge">
 </p>
 
 ---
 
-⭐️ *From [prashantmane17](https://github.com/prashantmane17)*  
+<!-- 🌊 FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA9,100:0072FF&height=120&section=footer" />
+</p>
+
+⭐️ *From [prashantmane17](https://github.com/prashantmane17)*
